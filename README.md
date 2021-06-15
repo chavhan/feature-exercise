@@ -15,7 +15,7 @@ Installation -> Just put supermarket folder into you www folder of wamp server o
 
 #### Important scripts 
 ##### CalculateOrderPrice.php -> Responsible for all the operation related to calculating the item price. 
-##### items.php  -> Config  file for item available in system along with different offers and their nature. 
+##### Skus.php  -> Config  file for item available in system along with different offers and their nature. 
 ##### ExecuteOrders.php -> For testing you application. 
 ##### CalculateOrderPriceTest.php -> test class in phpunit for different test cases 
 
